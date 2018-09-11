@@ -6,5 +6,6 @@ header img {
 @media (max-width: 500px){
     header img {
         padding: 25px;
+        max-height: 350px;
     }
 }
